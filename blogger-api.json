@@ -1,0 +1,152 @@
+{
+  "posts": [
+    {
+      "id": "2",
+      "title": "Redux Principles",
+      "body": "Redux can be described in three fundamental principles: (a) Single source of truth (b) State is read-only (c) Changes are made with pure functions",
+      "author": "facebook",
+      "category": "redux"
+    },
+    {
+      "id": "3",
+      "title": "Angular",
+      "body": "One framework. Mobile & desktop.",
+      "author": "google",
+      "category": "angular"
+    },
+    {
+      "id": "4",
+      "title": "Learn Redux in 10 minutes!",
+      "body": "Just kidding. It takes more than 10 minutes to learn technology.",
+      "author": "thingone",
+      "category": "redux"
+    },
+    {
+      "title": "ng 6 new features",
+      "body": "post body",
+      "author": "hari",
+      "category": "angular",
+      "id": "98xqrMq"
+    },
+    {
+      "title": "react 16",
+      "body": "new features",
+      "author": "aaa",
+      "category": "react",
+      "id": "KfihGvl"
+    },
+    {
+      "title": "redux new features",
+      "body": "body",
+      "author": "bbb",
+      "category": "redux",
+      "id": "fcw83Ah"
+    },
+    {
+      "title": "np 1",
+      "body": "np1 body",
+      "author": "aaa",
+      "category": "es6",
+      "id": "63gyrlL"
+    },
+    {
+      "title": "p100",
+      "body": "p100 body",
+      "author": "ccc",
+      "category": "react",
+      "id": "hJYqEKW"
+    },
+    {
+      "title": "p200",
+      "body": "p200 body",
+      "author": "ddd",
+      "category": "react",
+      "id": "WNkC7uL"
+    },
+    {
+      "title": "p300",
+      "body": "p300 body",
+      "author": "eee",
+      "category": "angular",
+      "id": "rNtn4CO"
+    },
+    {
+      "title": "Amar",
+      "body": "Reddy",
+      "author": "Eswar",
+      "category": "React",
+      "id": "rNtn4CO"
+    },
+    {
+      "title": "aaaaaaaaaaaa",
+      "body": "aaaaaaaaaaaaaaaa",
+      "author": "aaaaaaaaaaaaaaaa",
+      "category": "react",
+      "id": "Mm3MlRy"
+    },
+    {
+      "title": "dfgdf",
+      "body": "dfghdfgh",
+      "author": "dfghdfgh",
+      "category": "react",
+      "id": "UZVBoL-"
+    },
+    {
+      "title": "sfsdfg",
+      "body": "sdfgsdf",
+      "author": "gsdfgsdfg",
+      "category": "react",
+      "id": "tqDIqlT"
+    },
+    {
+      "title": "Amar",
+      "body": "addPost",
+      "author": "addPost",
+      "category": "redux",
+      "id": "cqRS6Vl"
+    },
+    {
+      "title": "REDDY",
+      "body": "REDDY",
+      "author": "REDDY",
+      "category": "java",
+      "id": "e2jQ5CI"
+    },
+    {
+      "title": "",
+      "body": "",
+      "author": "",
+      "category": "",
+      "id": "FFBdwmq"
+    },
+    {
+      "title": "A1111",
+      "body": "A1111",
+      "author": "A1111",
+      "category": "react",
+      "id": "hOCy9BW"
+    }
+  ],
+  "categories": [
+    {
+      "name": "React",
+      "code": "react"
+    },
+    {
+      "name": "Redux",
+      "code": "redux"
+    },
+    {
+      "name": "Angular",
+      "code": "angular"
+    },
+    {
+      "name": "ES6",
+      "code": "es6"
+    },
+    {
+      "name": "Java",
+      "code": "java"
+    }
+  ]
+}
